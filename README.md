@@ -11,3 +11,9 @@ Bintang Timurlangit - 00000053806
 Mahdi Husein Punca - 00000061513  
 Raqqat Amarasangga Iswahyudi - 00000057063  
 Sinung Agung Cahyono - 00000056197  
+
+### Installation
+
+```sh
+npm run dev
+```
